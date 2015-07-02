@@ -10,7 +10,7 @@ Note: For some of the challenges you will need to reference files included with
 this repository, so you will need to fork the repo into your own Github account
 and then clone it to your development environment.
 
-## The Challenges
+## The Challenges  
 
 ### Navigating the Filesystem
 
